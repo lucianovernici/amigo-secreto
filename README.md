@@ -31,7 +31,7 @@ O projeto foi implantado utilizando o **Vercel**, permitindo fácil acesso e exe
    Caso queira testar ou modificar o código localmente, clone o repositório com o seguinte comando:
 
    ```bash
-   git clone https://github.com/marcoshsq/ChallengeAmigoSecreto-G8-ONE.git
+   git@github.com:lucianovernici/amigo-secreto.git
    ```
 
 2. **Abra o Projeto:**  
